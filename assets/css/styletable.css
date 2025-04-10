@@ -1,0 +1,49 @@
+
+body{
+	margin: 0px;
+}
+
+.homered{
+	background-color: #60547A  ;
+	padding: 30px 10px 22px 10px;
+}
+
+.divider{
+	background-color: #60547A  ;
+	height: 5px;
+}
+
+.homeblack:hover{
+	background-color: #4C9DC8 ;
+	padding: 30px 10px 21px 10px;
+
+}
+
+table {
+margin: 0px;
+  border-collapse: collapse;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #a7bba7}
+tr:hover {background-color:#76D7C4;}
+
+th {
+  background-color: #507A59;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
